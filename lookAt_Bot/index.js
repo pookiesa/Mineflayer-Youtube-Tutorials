@@ -1,8 +1,8 @@
 const mineflayer = require('mineflayer')
 
 const bot = mineflayer.createBot({
-  host: 'localhost',
-  port: 37269,
+  host: 'Dragon_SPIRE-SMP.aternos.me',
+  port: 25063,
   username: 'lookAt_Bot'
 })
 
